@@ -88,5 +88,5 @@ _Atualizar a cada semana, com os principais aprendizados e dificuldades._
 
 ## Contato
 
-- LinkedIn: _adicionar link_
-- GitHub: _adicionar link_
+- LinkedIn: [link](https://linkedin.com/in/antonio-j-araujo)
+
